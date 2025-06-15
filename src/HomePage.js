@@ -36,7 +36,7 @@ export default function HomePage() {
 
       {/* Our Team Section */}
       <section>
-        <h2 className="text-3xl font-semibold mb-6">Our General Practitioners</h2>
+        <h2 className="text-3xl font-semibold mb-6">Our Nurse Practitioner</h2>
         <div className="flex flex-col md:flex-row items-center gap-8">
           <Image
             src="/profile.jpg"
